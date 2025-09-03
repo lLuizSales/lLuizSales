@@ -7,8 +7,8 @@
 
 📫 Entre em contato comigo: 
 <div> 
-  <a href = "mailto:luiz.edu.car33@gmail.com"><img align="center" alt="Rafa-Js" height="50" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href = "mailto:luiz.edu.car33@gmail.com target="_blank"><img align="center" alt="Rafa-Js" height="50" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"></a>
+  <a href = "https://www.linkedin.com/in/luiz-eduardo-sales/" target="_blank"><img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
 
 ##
