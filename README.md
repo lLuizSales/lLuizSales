@@ -1,12 +1,9 @@
 # 👋 Olá, eu sou o Luiz Eduardo
 
-🎓 Estudante de **Engenharia de Software** no IDP  
-
-📊 Interesse especial em **Ciência e Análise de Dados**  
-
-💻 Conhecimentos em **Python, SQL, AWS Cloud** e **lógica de programação**  
-
-🚀 Buscando oportunidades de **estágio em tecnologia** para aprender e contribuir com soluções reais  
+🎓 Estudante de **Engenharia de Software** no IDP<br>
+📊 Interesse especial em **Ciência e Análise de Dados**<br>
+💻 Conhecimentos em **Python, SQL, AWS, C** <br>
+🚀 Buscando oportunidades de **estágio** para aprimorar e aprender com soluções reais<br>  
 
 📫 Entre em contato comigo: 
 <div> 
