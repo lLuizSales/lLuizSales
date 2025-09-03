@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Eduardo
 
-<!--
-**lLuizSales/lLuizSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** no IDP  
 
-Here are some ideas to get you started:
+📊 Interesse especial em **Ciência e Análise de Dados**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Conhecimentos em **Python, SQL, AWS Cloud** e **lógica de programação**  
+
+🚀 Buscando oportunidades de **estágio em tecnologia** para aprender e contribuir com soluções reais  
+
+📫 Entre em contato comigo: 
+<div> 
+  <a href = "mailto:luiz.edu.car33@gmail.com"><img align="center" alt="Rafa-Js" height="50" width="40" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img align="center" alt="Rafa-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+</div>
+
+##
