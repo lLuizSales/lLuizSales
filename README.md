@@ -3,7 +3,7 @@
 🎓 Estudante de **Engenharia de Software** no IDP<br>
 📊 Interesse especial em **Ciência e Análise de Dados**<br>
 💻 Conhecimentos em **Python, SQL, AWS, C** <br>
-🚀 Buscando oportunidades de **estágio** para aprimorar e aprender com soluções reais<br>  
+🚀 Buscando oportunidades de **estágio** para aprimorar o meu conhecimento e aprender com soluções reais<br>  
 
 📫 Entre em contato comigo: 
 <div> 
